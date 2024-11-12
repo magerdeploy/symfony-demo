@@ -8,7 +8,7 @@ mager init --local
 mager prepare local
 ```
 
-To preview deployment on local
+To preview deployment on local, `mager.yaml` configuration will be override by `mager.dev.yaml`
 
 ```shell
 mager dev
